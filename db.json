@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "title": "Running Shoe",
+      "description": "Lightweight running shoe for all types of terrains",
+      "price": 79.99,
+      "id": 1
+    },
+    {
+      "title": "Walking Shoe",
+      "description": "Comfortable walking shoe for everyday use",
+      "price": 59.99,
+      "id": 2
+    },
+    {
+      "title": "Basketball Shoe",
+      "description": "High-top basketball shoe for maximum support",
+      "price": 99.99,
+      "id": 3
+    },
+    {
+      "title": "Hiking Boot",
+      "description": "Durable hiking boot for all-weather conditions",
+      "price": 129.99,
+      "id": 4
+    },
+    {
+      "title": "Dress Shoe",
+      "description": "Sleek and stylish dress shoe for formal occasions",
+      "price": 89.99,
+      "id": 5
+    },
+    {
+      "title": "Casual Sneaker",
+      "description": "Versatile casual sneaker for everyday wear",
+      "price": 69.99,
+      "id": 6
+    }
+  ]
+}
