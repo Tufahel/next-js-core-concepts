@@ -3,25 +3,25 @@
     {
       "title": "Running Shoe",
       "description": "Lightweight running shoe for all types of terrains",
-      "price": 79.99,
+      "price": 117.99,
       "id": 1
     },
     {
       "title": "Walking Shoe",
       "description": "Comfortable walking shoe for everyday use",
-      "price": 59.99,
+      "price": 119.99,
       "id": 2
     },
     {
       "title": "Basketball Shoe",
       "description": "High-top basketball shoe for maximum support",
-      "price": 99.99,
+      "price": 199.99,
       "id": 3
     },
     {
       "title": "Hiking Boot",
       "description": "Durable hiking boot for all-weather conditions",
-      "price": 129.99,
+      "price": 19.99,
       "id": 4
     },
     {
